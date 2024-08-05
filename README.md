@@ -27,3 +27,5 @@
 <img src="https://raw.githubusercontent.com/matheusvidall/matheusvidall/output/snake.svg" alt="Snake animation" />
 
 ###
+![Snake animation](https://github.com/matheusvidall/matheusvidall/blob/output/github-contribution-grid-snake.svg).
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=matheusvidall&repo=matheusvidall=themereact)l.(https://github.com/matheusvidall/matheusvidall).
