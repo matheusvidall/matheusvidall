@@ -1,7 +1,5 @@
 <h2 align="left">Techs</h2>
 
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -12,8 +10,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <div align="center">
@@ -22,10 +18,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusvidall&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+![Snake animation](https://raw.githubusercontent.com/matheusvidall/matheusvidall/output/snake.svg)
 
-<img src="https://raw.githubusercontent.com/matheusvidall/matheusvidall/output/snake.svg" alt="Snake animation" />
-
-###
-![Snake animation](https://github.com/matheusvidall/matheusvidall/blob/output/github-contribution-grid-snake.svg).
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=matheusvidall&repo=matheusvidall=themereact)l.(https://github.com/matheusvidall/matheusvidall).
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=matheusvidall&repo=matheusvidall&theme=react)](https://github.com/matheusvidall/matheusvidall)
